@@ -4,7 +4,7 @@ namespace ProjectSem3.Controllers
 {
     public class ProjectController : Controller
     {
-        public string Index()
+        public string Home()
         {
             return "This is my default action...";
         }
